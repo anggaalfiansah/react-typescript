@@ -1,9 +1,9 @@
-import "./App.css";
-import ExampleForm from "./ExampleForm";
+import ExamplePages from "src/pages/Example";
+
 const App = () => {
   return (
     <div className="App">
-      <ExampleForm />
+      <ExamplePages />
     </div>
   );
 };
